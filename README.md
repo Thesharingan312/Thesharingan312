@@ -8,7 +8,7 @@ Soy Emmanuel, **desarrollador web**. Me interesa trabajar con **tecnologías mod
 
 🧰 Herramientas y tecnologías que uso:
 - **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-- **Backend**: ![Java](https://img.shields.io/badge/Java-b90d0d?logo=OpenJDK) ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
+- **Backend**: ![Java](https://img.shields.io/badge/Java-b90d0d?logo=OpenJDK) ![PHP](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php) ![Pyton]
 - **Bases de datos**: ![MongoDB](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -25,7 +25,7 @@ Soy Emmanuel, **desarrollador web**. Me interesa trabajar con **tecnologías mod
 ## 📬 ¡Conversemos! 📬
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
 
-- **Correo**: [isorianobuendia@gmail.com](mailto:deltron312@gmail.com)
+- **Correo**: [pytonitsagood@gmail.com](mailto:deltron312@gmail.com)
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in)
 
 ¡Estaré encantado de hablar sobre nuevos proyectos o ideas! 🙌
@@ -35,6 +35,8 @@ Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no du
 ¡Mira cómo contribuyo a GitHub! 🐍
 
 ![GitHub Snake Dark](https://github.com/IsraC0d33/IsraC0d33/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Ballwictb/Ballwictb/output/snake.svg" border="4px" alt="Snake animation">
+
 
 ---
 
