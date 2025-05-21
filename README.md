@@ -25,7 +25,7 @@ Soy Emmanuel, **desarrollador web**. Me interesa trabajar con **tecnologías mod
 ## 📬 ¡Conversemos! 📬
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
 
-- **Correo**: [pytonitsagood@gmail.com](mailto:deltron312@gmail.com)
+- **Correo**: [Pincha si pytonitsagood@gmail.com](mailto:deltron312@gmail.com)
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in)
 
 ¡Estaré encantado de hablar sobre nuevos proyectos o ideas! 🙌
